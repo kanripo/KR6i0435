@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五苦章句經
+#+DATE: 2015-08-30 20:19:33.720259
+#+PROPERTY: JUAN 0
